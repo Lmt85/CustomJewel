@@ -7,7 +7,7 @@ const Display = () => {
             <div className="imgTshirt text-center">
                 <img
                 className="img-responsive"
-                src="https://images-na.ssl-images-amazon.com/images/I/61MnT8q%2B3UL._UY500_.jpg"
+                src="https://res.cloudinary.com/dkkgmzpqd/image/upload/v1545217305/T-shirt%20Images/black.png"
                 alt="img-Tshirt"
                 />
             </div>
