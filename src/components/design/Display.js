@@ -1,7 +1,8 @@
 import React from 'react'; 
 import './Display.css';
 
-const Display = () => {
+const Display = ({ display }) => {
+    console.log(display);
     return(
         <div className="card card-content">
             <div className="imgTshirt text-center">
