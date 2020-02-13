@@ -4,17 +4,93 @@
 
 nav{
     display: flex;
-    justify-content: space-around;
     align-items: center;
+    justify-content: space-around;
     min-height: 10vh;
-    background: rgb(73, 79, 82);
+    background: rgb(131, 191, 146);
     color: white;
 }
 
 .nav-links{
-    width: 50%;
+    width: 70%;
+    display: flex;
+    max-height: 2vh;
+    justify-content: space-around;
+    list-style: none;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.titles{
     display: flex;
     justify-content: space-around;
+}
+
+.row1{
+    margin-top: 10px;
+}
+.row2{
+    margin-bottom: 10px;
+}
+
+.Carousel1{
+    margin-top: 20px;
+    margin-left: 24.5%;
+    margin-right: 24.5%;
+    
+    display: flex;
     align-items: center;
-    list-style: none;
+    justify-content: space-around;
+}
+
+.row3{
+    margin-left: 33%;
+    margin-bottom: 10px;
+}
+.row4{
+    margin-top: 20px;  
+}
+.backnext{
+    margin-top: 10px; 
+    margin-bottom: 20px;
+     
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.leftbutton{
+    margin-right: 5px; 
+}
+.colortitle{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.colork{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 40%;
+}
+
+.row5{
+    margin-top: 20%;  
+}
+.row6{
+    margin-left: 10%;  
+}
+.row7{
+    margin-right: 10%;  
+}
+
+.backnext2{
+    margin-top: 10px; 
+    margin-bottom: 20px;
+    margin-right: 35%;
+    margin-left: 10%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
