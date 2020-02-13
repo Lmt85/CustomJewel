@@ -16,12 +16,14 @@ function Checkout() {
 <Col className="row4"><img src={imagen1} height="350" width="300" />
 <Row className="row4">
   <Col>
+  <h5>Precio</h5>
   <h5>Número de artículo</h5>
   <h5>Metal</h5>
   <h5>Diamante incoloro</h5>
   <h5>Talla anillo</h5>
   </Col>
   <Col>
+  <h5>$10,000 MXN</h5>
   <h5>87440</h5>
   <h5>Oro blanco 14K</h5>
   <h5>0.40 pts</h5>
